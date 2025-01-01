@@ -1,0 +1,1 @@
+C:\Users\Mario\projects\communicator\target\debug\libcommunicator.rlib: C:\Users\Mario\projects\communicator\src\client.rs C:\Users\Mario\projects\communicator\src\lib.rs C:\Users\Mario\projects\communicator\src\network\mod.rs C:\Users\Mario\projects\communicator\src\network\server.rs
