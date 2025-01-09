@@ -1,0 +1,1 @@
+F:\Users\mario\Documents\Projetos\Rust\sqlite\rust_crud_v1\target\debug\rust_crud_v1.exe: F:\Users\mario\Documents\Projetos\Rust\sqlite\rust_crud_v1\src\main.rs F:\Users\mario\Documents\Projetos\Rust\sqlite\rust_crud_v1\src\mod_sqlite.rs
